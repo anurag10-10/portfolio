@@ -1,15 +1,16 @@
 # Anurag Tale [Jr. Data Scientist]
 
 ### Education
-Vishwakarma Institute of Information and Technology, Pune                                    Jun 2021 
+Vishwakarma Institute of Information and Technology, Pune                                    (Jun 2021) 
+
 B.Tech., Electronics and Telecommunication Engineering
-### Work Experience
-### Junior Data Scientist, Hudl Wyscout 	     						                              Nov 2023 – Aug 2024
+## Work Experience
+### Junior Data Scientist, Hudl Wyscout 	     						                              (Nov 2023 – Aug 2024)
 •	Developed the Players Rating feature using regression algorithms to train a model that predicts football player ratings.
 •	Developed a ML model using regression techniques to predict football player market values from data, enabling accurate transfer budgeting and preventing market value manipulation.
-### Trainer, Hudl Wyscout 	     						                                    	                  Aug 2023
+### Trainer, Hudl Wyscout 	     						                                    	                  (Aug 2023)
 •	Communication & leadership - Trained a batch of 30 freshers on using the Wyscout platform, providing them with the necessary skills for football data analysis.
-### Data Analyst, Hudl Wyscout 	     						                                        	         Jun 2022 
+### Data Analyst, Hudl Wyscout 	     						                                        	         (Jun 2022) 
 •	Led data collection efforts and built interactive football dashboards for customers using Streamlit, delivering insights and visualizations tailored to their needs.
 
 ## SKILLS 

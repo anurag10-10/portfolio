@@ -12,13 +12,13 @@
 •	Led data collection efforts and built interactive football dashboards for customers using Streamlit, delivering insights and visualizations tailored to their needs.
 
 ### SKILLS 
-### Analytical Tools:  
+## Analytical Tools:  
 ●	Power BI
 ●	Jupyter Notebook
-Programming Languages: 
+## Programming Languages: 
 ●	SQL 
 ●	Python
-Database: 
+## Database: 
 ●	MySQL
  
 

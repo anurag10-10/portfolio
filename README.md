@@ -59,9 +59,12 @@ GitHub Repo | Live Dashboard
 •	Optimized the report using DAX studio, which saved 30% of storage and improved performance by 10%
 
 ### CERTIFICATIONS / AWARDS:
-•	Codebasics Power BI certification
-•	SQL (Basic) Hackerrank Certification.  Click Here...
-
+•	Codebasics Power BI certification [Click Here](https://codebasics.io/certificate/CB-49-121632)
+•	SQL (Basic) Hackerrank Certification.  [Click Here](https://www.hackerrank.com/certificates/2481aedcbdd1)
 ### OTHER ACTIVITIES: 
 •	Loved reading the “Zero to One” Book by Peter Thiel.
-•	Likes to write Football Analytics content on Twitter / X.  Click Here... 
+•	Likes to write Football Analytics content on Twitter / X. [Click Here](https://x.com/anurag_analysis)
+
+- [Email me](mailto:anurag.tale1010@gmail.com)
+- [LinkedIn Profile](https://www.linkedin.com/in/anurag-tale-b14a5b16a)
+

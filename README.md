@@ -44,7 +44,7 @@ GitHub Repo
 
 •	Delivered insights by comparing predicted vs. actual market values, helping clubs avoid overpaying for players and preventing market value manipulation.
 ### Real Estate Price Prediction - [Python | Jupyter Notebook]						                           
-GitHub Repo | Web App
+[GitHub Repo](https://github.com/anurag10-10/Real_estate_price_prediction) | [Web App](https://realestatepriceprediction-kjdncu6tenreoyrpdaxrhe.streamlit.app/)
 
 •	Built a Real Estate Price Prediction model using sklearn and linear regression with the Bangalore home prices dataset, incorporating data cleaning, feature engineering, and hyperparameter tuning.
 

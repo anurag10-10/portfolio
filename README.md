@@ -27,7 +27,7 @@ B.Tech., Electronics and Telecommunication Engineering
 ## Project Experience:
 
 ### Performance analysis – Match Analysis Dashboard [Python | SQL | Jupyter Notebook] 	                                                                             
-GitHub Repo | [Web App](https://baller-metrics-app.streamlit.app/)
+[GitHub Repo](https://github.com/anurag10-10/streamlit_minerva) | [Web App](https://baller-metrics-app.streamlit.app/)
 
 •	An end-to-end webapp for a local football club Minerva FC youth-team which has the Players Rating feature.
 
